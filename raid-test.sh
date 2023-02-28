@@ -8,6 +8,8 @@ echo $(date +"%F %T")
 if (($WORKING != 2)); 
 then
   echo "ERROR," $FAILED "failed disks"
+  echo ""
 else
   echo "OK," $WORKING "working disks"
+  echo ""
 fi
