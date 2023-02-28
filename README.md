@@ -1,4 +1,6 @@
 # server-status
-Availability monitoring for my servers
+Availability monitoring and RAID check for my servers
 
-testing
+# NAS
+| date | time | status |
+|------|------|--------|
