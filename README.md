@@ -9,3 +9,5 @@ Availability monitoring and RAID check for my servers
 | 2023-03-01 | 01:55 | OK, 2 working disks |
 | 2023-03-01 | 02:00 | OK, 2 working disks |
 | 2023-03-02 | 14:32 | OK, 2 working disks |
+| 2023-03-02 | 15:00 | OK, 2 working disks |
+| 2023-03-02 | 16:00 | OK, 2 working disks |
